@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">🌟 Top Skills</h3>
 
 ###
@@ -72,14 +74,13 @@
 
 ###
 
-<h3 align="left">✉️ Contact</h3>
+<br clear="both">
+
+<h3 align="left">📌 Pinned Project</h3>
+
+<img width="800" alt="Capture d’écran 2024-09-07 à 22 38 30" src="https://github.com/user-attachments/assets/e307fb27-c3eb-453f-9234-3d288b2cce68">
+
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/l%C3%A9a-cassegrain-9b4b1b270/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
