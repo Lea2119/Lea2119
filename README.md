@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Front-end Developer with hands-on experience in Vue.js, specializing in responsive web applications.<br><br>Skilled in TypeScript, Vuetify, and Pinia, focused on delivering user-friendly interfaces.<br><br>Dedicated to maintaining code quality through Test-Driven Development (TDD) practices and Vitest testing.<br><br>Experienced in Agile workflows with a continuous learning mindset.<br><br>Passionate about growing as a developer, collaborating with teams, and contributing to stimulating projects that make an impact.</p>
+<p align="left">👩‍💻 Front-end Developer with hands-on experience in Vue.js, specializing in responsive web applications.<br><br>🌟 Skilled in TypeScript, Vuetify, and Pinia, focused on delivering user-friendly interfaces.<br><br>💪 Dedicated to maintaining code quality through Test-Driven Development (TDD) practices and Vitest testing.<br><br>🤸🏼‍♂️ Experienced in Agile workflows with a continuous learning mindset.<br><br>🚀 Passionate about growing as a developer, collaborating with teams, and contributing to stimulating projects.</p>
 
 ###
 
