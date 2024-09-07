@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Trip Tribe](https://github.com/Lea2119/trip-tribe)
 
-- 💬 Ask me about **Typescript, Vue.js, Vuetify, Pinia, Vuex, Vites**
+- 💬 Ask me about **Typescript, Vue.js, Vuetify, Pinia, Vuex, Vitest**
 
 - 📫 How to reach me **lea.csgn@gmail.com**
 
