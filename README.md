@@ -32,6 +32,11 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="20" />
 </div>
 
 ###
